@@ -79,7 +79,8 @@ Airline management wants to measure the operational and customer experience impa
 🔍 **Full Dashboard Preview**
 Interactive Power BI dashboard with clean aviation-themed layout and monochrome + yellow highlights for weather impact.
 
-🖼️ *\[Insert Screenshot Here]*
+🖼️ *Here is the link: View Full Dashboard Image
+*
 
 ## 📎 Extras
 
