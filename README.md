@@ -79,8 +79,9 @@ Airline management wants to measure the operational and customer experience impa
 🔍 **Full Dashboard Preview**
 Interactive Power BI dashboard with clean aviation-themed layout and monochrome + yellow highlights for weather impact.
 
-🖼️ *Here is the link: View Full Dashboard Image
-*
+🖼️ **Here is the link:**
+[View Full Dashboard Image](https://github.com/mydeepcode/Weather-Impact-on-Flight-Operations-Dashboard-Power-BI-Project-/blob/3c5a1115486cf25c8e31700f52f63e83c0ea0026/Weather%20Impact%20on%20Flight%20Operations%20Dashboard.png)
+
 
 ## 📎 Extras
 
